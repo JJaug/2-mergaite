@@ -12,7 +12,7 @@ div > header{
 
 }
 
-Header > img{
+header > img{
     display: inline-block;
     float: left;
 }
@@ -33,6 +33,15 @@ div > main{
 
 main > div{
     background-color: steelblue;
+    display: inline-block;
+}
+
+div > h1{
+    display: inline-block;
+}
+
+div > p{
+    display: inline-block;
 }
 
 main > img{
